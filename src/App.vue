@@ -81,6 +81,11 @@ export default Vue.extend({
           route: "/",
           icon: "mdi-file-table-box",
         },
+        {
+          name: "Settings",
+          route: "/settings",
+          icon: "mdi-cog",
+        }
       ];
     },
   }
